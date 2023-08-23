@@ -1,0 +1,10 @@
+,Abbreviation,Reaction,GPR,Lower bound,Upper bound,Objective,Confidence Score,Subsystem,Description
+90,bm00131,ARG[c] + H2O[c] --> ORN[c] + UREA[c],BMD_RS18850,0,1000,0,4,Amino acid metabolism,arginase (rocF)
+93,bm00137,GLUGSAL[c] + H2O[c] + NAD[c] <=> GLU[c] + 2.0 H[c] + NADH[c],BMD_RS18495,-1000,1000,0,4,Amino acid metabolism,1-pyrroline-5-carboxylate dehydrogenase (putA)
+97,bm00141,2.0 H2O[c] + NAD[c] + P5C[c] --> GLU[c] + H[c] + NADH[c],BMD_RS18495,0,1000,0,4,Amino acid metabolism,1-pyrroline-5-carboxylate dehydrogenase (putA)
+99,bm00145,2.0 H2O[c] + NAD[c] + PHC[c] --> E4HGLU[c] + H[c] + NADH[c],BMD_RS18495,0,1000,0,4,Amino acid metabolism,1-pyrroline-5-carboxylate dehydrogenase (putA)
+100,bm00150,2.0 H2O[c] + NADP[c] + P5C[c] --> GLU[c] + H[c] + NADPH[c],BMD_RS18495,0,1000,0,4,Amino acid metabolism,1-pyrroline-5-carboxylate dehydrogenase (putA)
+101,bm00151,4HGLUSA[c] + H2O[c] + NAD[c] --> E4HGLU[c] + 2.0 H[c] + NADH[c],BMD_RS18495,0,1000,0,4,Amino acid metabolism,1-pyrroline-5-carboxylate dehydrogenase/proline dehydrogenase
+297,bm00503,ACTAC[c] + H[c] + NADH[c] <=> HDBUT[c] + NAD[c],BMD_RS11155,-1000,1000,0,4,Fatty acid and Lipid,3-hydroxybutyrate dehydrogenase (bdh)
+599,Rt_bm00961,ATP[c] + H2O[c] + MLT[e] --> ADP[c] + H[c] + MLT[c] + PI[c],BMD_RS11485,0,1000,0,4,Transporting system,Maltose-ABC transport
+1078,Rt_bm01706,DEX[c] + H[c] <=> DEX[e] + H[e],BMD_RS11485,-1000,1000,0,4,Transporting system,Tr13
